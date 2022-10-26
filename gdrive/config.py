@@ -2,7 +2,7 @@
 
 
 class config:
-    BOT_TOKEN = "15713185019:AAFB9CHCJ6jfjhGW_mw4HfdQh4kPE0KfO6M"
+    BOT_TOKEN = "5713185019:AAFB9CHCJ6jfjhGW_mw4HfdQh4kPE0KfO6M"
     APP_ID = "9159177"
     API_HASH = "44703025052fd165170eebf5d9ccf4dc"
     DATABASE_URL = "1postgresql://postgres:09wbhNbybdmvpKKXpkZa@containers-us-west-59.railway.app:7001/railway"
